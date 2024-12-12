@@ -3,7 +3,7 @@ description: This contains Aiden McVean's projects, information, and experience 
 baseurl: ""
 url: https://amcvean.github.io
 
-theme: cvless
+remote_theme: cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
